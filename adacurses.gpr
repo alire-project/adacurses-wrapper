@@ -1,0 +1,5 @@
+aggregate project Adacurses is
+
+   for Project_Files use (External ("ADACURSES_GPR"));
+
+end Adacurses;
