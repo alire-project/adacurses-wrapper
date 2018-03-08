@@ -1,3 +1,0 @@
-with "ncursesada";
-
-project Adacurses_Debian renames NcursesAda;

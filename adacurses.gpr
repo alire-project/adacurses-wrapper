@@ -1,5 +1,3 @@
-aggregate project Adacurses is
+with "ncursesada";
 
-   for Project_Files use (External ("ADACURSES_GPR"));
-
-end Adacurses;
+project Adacurses renames NcursesAda;
