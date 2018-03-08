@@ -2,4 +2,6 @@ with "ncursesada";
 
 project Adacurses is
 
+   for Source_Dirs use (""); -- Avoid current one or _alr.ads will fail
+
 end Adacurses;
